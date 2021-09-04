@@ -1,0 +1,26 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  font-family: "Permanent Marker";
+}
+
+div {
+  cursor: pointer;
+  margin: auto;
+  font-size: 5vmin;
+  font-weight: 300;
+  transition: font-weight 1s ease-in-out;
+  transition: font-size 3s ease-in-out;
+}
+
+div:hover {
+  font-weight: 1200;
+}
+
+div:hover {
+  font-size: 30vmin;
+}
