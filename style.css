@@ -5,7 +5,7 @@ body {
 
 body {
   display: flex;
-  font-family: "Permanent Marker";
+  font-family: "Allison";
 }
 
 div {
@@ -14,13 +14,13 @@ div {
   font-size: 5vmin;
   font-weight: 300;
   transition: font-weight 1s ease-in-out;
-  transition: font-size 3s ease-in-out;
+  transition: font-size 2s ease-in-out;
 }
 
 div:hover {
-  font-weight: 1200;
+  font-weight: 1000;
 }
 
 div:hover {
-  font-size: 30vmin;
+  font-size: 24vmin;
 }
